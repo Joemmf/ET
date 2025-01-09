@@ -51,3 +51,20 @@ Unity.sln
 Unity.sln.DotSettings.user
 
 Assets/HybridCLR*
+Bundles/Android/
+Packages/cn.etetet.excel/DotNet~/Exe/
+Packages/cn.etetet.loader/Bundles/Code/
+Packages/cn.etetet.proto/DotNet~/Exe/
+Packages/cn.etetet.core/package.json
+Packages/cn.etetet.core/Editor/ComponentViewEditor/ComponentViewEditor.cs
+Packages/cn.etetet.core/Editor/ComponentViewEditor/EntityDrawerAttribute.cs
+Packages/cn.etetet.core/Editor/ComponentViewEditor/EntityDrawerAttribute.cs.meta
+Packages/cn.etetet.core/Editor/ComponentViewEditor/IEntityDrawer.cs
+Packages/cn.etetet.core/Editor/ComponentViewEditor/IEntityDrawer.cs.meta
+Packages/cn.etetet.packagemanager/Editor/Assets/PackageInfoAsset.asset
+Packages/cn.etetet.proto/package.json
+Packages/cn.etetet.proto/DotNet~/Proto2CS.cs
+Packages/cn.etetet.proto/Editor/ET.Proto.Editor.asmdef
+Packages/cn.etetet.proto/Editor/ProtoEditor.cs
+Packages/cn.etetet.proto/Editor/ProtoViewWindow.cs
+Packages/cn.etetet.proto/Editor/ProtoViewWindow.cs.meta
